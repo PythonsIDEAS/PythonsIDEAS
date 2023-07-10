@@ -1,6 +1,8 @@
 👨‍💻 Обо мне:
 
 Я начинающий python разработчик. Мой путь в it начался с 2021 всегда был самоучкой.На данный момент (2023 год) я знаю как сделать парсер с динамического и статичного сайта,создание сайтов на Flask и создание телеграм бота.
+<image src='https://github.com/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg'>
+
 
 📫 Как связаться со мной:
 
@@ -39,3 +41,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PythonsIDEAS&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PythonsIDEAS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
